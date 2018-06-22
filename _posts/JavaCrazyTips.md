@@ -23,3 +23,4 @@ public class TestPhantomReference {
         System.out.print(queue.poll() == pr);   // 输出 true
     }
 }
+```

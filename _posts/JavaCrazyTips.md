@@ -22,6 +22,5 @@ public class TestPhantomReference {
         System.runFinalization();
         System.out.print(queue.poll() == pr);   // 输出 true
     }
-    范围分为非为范围来看；fejwf
 }
 ```

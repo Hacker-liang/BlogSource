@@ -21,7 +21,7 @@ print("count in String: \(str.count), count in NSString: \(nstr.length)")
 //"count in String: 5, count in NSString: 6"
 ```
 
-刚结束Swift的String的时候肯定会对上面的输出结果产生疑问：为啥一个是5，一个是6？这肯定是Swift和Objective-c的字符编码不同的原因。我们先复习一下字符编码。
+刚接触Swift的String的时候肯定会对上面的输出结果产生疑问：为啥一个是5，一个是6？这肯定是Swift和Objective-c的字符编码不同的原因。我们先复习一下字符编码。
 
 >- **ASCII码**：这个是上个世纪60年代老美定的一套字符编码，只需要一个字节，可以从00000000表示到11111111，一共可以表示2^8=256个字符。
 

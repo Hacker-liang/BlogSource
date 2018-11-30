@@ -18,11 +18,12 @@ top: 100
 
 ### 配置Google Cloud
 
-1.注册Google Cloud Platform账号，需要一张visia信用卡。注册地址：[Google Cloud官网](https://cloud.google.com/)
+1.注册Google Cloud Platform账号，需要一张visa信用卡。注册地址：[Google Cloud官网](https://cloud.google.com/)
+
 2.创建一个VM，系统建议选择CentOS7,配置建议选低一点，最低的话大概5美金一个月。地区选择asia-east，abc都可以,勾选HTTP,HTTPS流量。
-![](Google-Cloud-Shadowsocks/1.png)
+![](http://qiniu.heheceo.com//18-11-30/16770019.jpg)
 3.点击“网络”配置静态ip地址。点击"外部IP"新建一个静态IP,注意选择你vm所在的地区，每个地区只能有一个静态ip。
-![](Google-Cloud-Shadowsocks/2.png)
+![](http://qiniu.heheceo.com//18-11-30/34983080.jpg)
 
 ### 开启shadowsocks服务
 
@@ -56,7 +57,7 @@ top: 100
 
 去 [Github](https://github.com/shadowsocks) 上下载对应的客户端，完成后配置IP，端口信息即可。如下图：
 
-![](Google-Cloud-Shadowsocks/3.png)
+![](http://qiniu.heheceo.com//18-11-30/20512593.jpg)
 
 
  **遵守法律，科学上网**
